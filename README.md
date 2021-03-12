@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Chatbots Metrics**
 
-- 🌱 I’m currently learning **Elixir and improving Python**
+- 🌱 I’m currently learning **NLP and Machine Learning**
 
 
 <h3 align="left">Languages and Tools:</h3>
