@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋</h1>
-<h3 align="left">I'm Emanuelle Oliveira, a.k.a. Manu, tech and number's lover! A woman changing the world through data.</h3>
+<h3 align="left">I'm Emanuelle Oliveira, a.k.a. Manu, a woman changing the world through data.</h3>
 
 - 🌍 Belo Horizonte based
 - 💻 Data Scientist and Analyst
